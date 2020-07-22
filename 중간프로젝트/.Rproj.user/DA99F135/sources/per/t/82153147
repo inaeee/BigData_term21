@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588931044416.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3899476216",
+    "id" : "82153147",
+    "lastKnownWriteTime" : 1588934108,
+    "last_content_update" : 1588934108770,
+    "path" : "C:/Users/inaee/Desktop/2020-1/빅데이터소프트웨어/중간프로젝트/지역구비교.R",
+    "project_path" : "지역구비교.R",
+    "properties" : {
+        "cursorPosition" : "6,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

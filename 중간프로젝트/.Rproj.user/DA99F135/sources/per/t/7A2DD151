@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588791129149.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1039218571",
+    "id" : "7A2DD151",
+    "lastKnownWriteTime" : 1588791377,
+    "last_content_update" : 1588791377540,
+    "path" : "C:/Users/inaee/Desktop/2020-1/빅데이터소프트웨어/중간프로젝트/더불어민주당지역구.R",
+    "project_path" : "더불어민주당지역구.R",
+    "properties" : {
+        "cursorPosition" : "4,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588934382531.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1663146114",
+    "id" : "A0901E7D",
+    "lastKnownWriteTime" : 1588935075,
+    "last_content_update" : 1588935075351,
+    "path" : "C:/Users/inaee/Desktop/2020-1/빅데이터소프트웨어/중간프로젝트/비례대표비교.R",
+    "project_path" : "비례대표비교.R",
+    "properties" : {
+        "cursorPosition" : "21,33",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

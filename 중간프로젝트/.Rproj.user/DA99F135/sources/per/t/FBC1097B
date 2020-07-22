@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588791394795.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1277805701",
+    "id" : "FBC1097B",
+    "lastKnownWriteTime" : 1588791458,
+    "last_content_update" : 1588791458689,
+    "path" : "C:/Users/inaee/Desktop/2020-1/빅데이터소프트웨어/중간프로젝트/미래통합당지역구.R",
+    "project_path" : "미래통합당지역구.R",
+    "properties" : {
+        "cursorPosition" : "4,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
